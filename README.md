@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aayushmaan Jaiswal aka Phoenix-Noah</h1>
 <h3 align="center">Debugging My Life One Line at a Time</h3>
-<img align="right" alt="coding" width="400" src= "<img width="480" height="270" alt="image" src="https://github.com/user-attachments/assets/3ae4ee4e-aad0-4737-a155-f602aec1e8cb" />
-"
+<img align="right" alt="coding" width="400" src="https://github.com/user-attachments/assets/3ae4ee4e-aad0-4737-a155-f602aec1e8cb" />
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=phoenix-noah0806&label=Profile%20views&color=0e75b6&style=flat" alt="phoenix-noah0806" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=phoenix-noah0806" alt="phoenix-noah0806" /></a> </p>
