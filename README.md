@@ -1,5 +1,5 @@
-![logo](![Developer Banner 3](https://ishan-rest.vercel.app/svg/banner/dev3/PhoenixNoah)
-)
+![Developer Banner](https://ishan-rest.vercel.app/svg/banner/dev3/PhoenixNoah)
+
 <h1 align="center">Hi 👋, I'm Aayushmaan Jaiswal a.k.a PhoenixNoah</h1>
 <h3 align="center">Debugging my life one line at a time</h3>
 
