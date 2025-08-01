@@ -4,6 +4,10 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=phoenix-noah0806&label=Profile%20views&color=0e75b6&style=flat" alt="phoenix-noah0806" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=phoenix-noah0806" alt="phoenix-noah0806" /></a> </p>
+<img align="right" alt="coding" width="400" src="https://your-image-url.com/image.png" />
+
+
+
 
 - 🔭 I’m currently working on **diving deep into various technologies and tools to build a strong foundation**
 
