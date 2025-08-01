@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=phoenix-noah0806&label=Profile%20views&color=0e75b6&style=flat" alt="phoenix-noah0806" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=phoenix-noah0806" alt="phoenix-noah0806" /></a> </p>
-<img align="right" alt="coding" width="400" src="https://your-image-url.com/image.png" />
+<img align="right" alt="coding" width="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmJ1cmhsYnE2enFjZmh5ZmJya2xka3JreGYzNjBiYzd5ZXdrN3hkZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hKdDwtTZ6gD0AS7etL/giphy.gif" />
 
 
 
