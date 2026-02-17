@@ -33,11 +33,5 @@
 ### 🐍 Snake-Eating My Contribution Graph:
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
 <img src="https://raw.githubusercontent.com/ANSH127/ANSH127/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=phoenix-noah0806&show_icons=true&locale=en&layout=compact" alt="phoenix-noah0806" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=phoenix-noah0806&show_icons=true&locale=en" alt="phoenix-noah0806" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=phoenix-noah0806&" alt="phoenix-noah0806" /></p>
 
